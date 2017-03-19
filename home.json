@@ -1,1 +1,6 @@
-[{"titles":"三分时时彩","types":"sfssc.json","opens":"0,8,4,5,6"}]
+[{"titles":"三分时时彩","types":"sfssc.json","opens":"0,8,4,5,6"},
+{"titles":"重庆时时彩","types":"cqssc.json","opens":"3,2,2,5,3"},
+{"titles":"北京PK10","types":"bjpk10.json","opens":"09,08,03,06,10,01,05,07,02,04"},
+{"titles":"广东11选5","types":"gd11x5.json","opens":"11,08,06,05,02"},
+{"titles":"新疆时时彩","types":"xjssc.json","opens":"0,0,2,3,6"},
+{"titles":"山东11选5","types":"sd11x5.json","opens":"03,01,09,02,06"}]
